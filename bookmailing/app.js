@@ -1,4 +1,3 @@
-// NPM
 import express from 'express'
 
 // App Settings
